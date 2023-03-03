@@ -1,0 +1,72 @@
+body{	
+	background-color: #F5D0A9;
+
+}
+p{
+	color: black;
+	font-style: normal;
+	font-family: arial;
+	font-size: 120%;
+	text-align: center;
+}
+h1{
+	font-size: 260%;
+		color: black;
+	font-style: normal;
+	font-family: arial;
+	text-align: center;
+}
+h2{
+	font-size: 190%;
+		color: black;
+	font-style: normal;
+	font-family: arial;
+	text-align: center;
+}
+#corpo{
+	background-image: url(img/back.png);
+	background-repeat: no-repeat;
+	border-style: solid;
+	border-color: black;
+}
+#corpocentral {						
+	width: 80%;
+	height:840px;
+	background-color: transparent;
+	margin: auto;					
+}
+#header{										
+	width: 100%;								
+	height: 150px;
+	background-color: red;
+	border-style: solid;
+	border-color: black;
+	background-image: url(img/cabecario.jpg);
+	margin-top: -0.5%;
+}	
+#foot{
+	width: 125.8%;								
+	height: 125px;
+	border-style: solid;
+	border-color: black;
+	background-image: url("img/rodape.jpg");
+    background-position: 100%;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-left: -14.7%;
+}
+address{
+	color: white;
+	margin-left: 10%;
+	text-shadow: 2px 2px black;
+	font-family: arial;
+	font-size: 110%;
+	margin-top: 5%;
+}
+#onlyimg{
+	border-style: solid;
+	border-color: black;
+	width: 20%;
+	height: 20%;
+	margin-left: 40%;
+}
